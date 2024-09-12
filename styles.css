@@ -1,0 +1,19 @@
+img {
+  display: block;
+  margin-left: auto;
+  width: 300px; 
+  height: 300px;
+  margin-bottom: 50px;
+
+
+}
+body {
+  background-color: rgb(8, 30, 90);
+}
+h1 {
+  color: aliceblue;
+  font-family: sans-serif;
+}
+.intro {
+  color:aliceblue;
+}
